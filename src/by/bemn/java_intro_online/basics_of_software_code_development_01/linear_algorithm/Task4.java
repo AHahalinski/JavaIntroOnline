@@ -1,4 +1,4 @@
-package by.bemn.java_intro_online.basics_of_software_code_development.linear_algorithm;
+package by.bemn.java_intro_online.basics_of_software_code_development_01.linear_algorithm;
 
 import java.util.Scanner;
 
@@ -19,7 +19,6 @@ public class Task4 {
                 break;
             } else {
                 System.out.println("Incorrect data, try again");
-                continue;
             }
         }
     }

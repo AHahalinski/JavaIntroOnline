@@ -1,4 +1,4 @@
-package by.bemn.java_intro_online.basics_of_software_code_development.loop;
+package by.bemn.java_intro_online.basics_of_software_code_development_01.loop;
 
 import java.math.BigInteger;
 

@@ -1,4 +1,4 @@
-package by.bemn.java_intro_online.basics_of_software_code_development.loop;
+package by.bemn.java_intro_online.basics_of_software_code_development_01.loop;
 
 import java.math.BigInteger;
 import java.util.Scanner;
@@ -18,7 +18,6 @@ public class Task1 {
                 numberIn = Integer.parseInt(strTemp);
             } else {
                 System.out.println("try again!");
-                continue;
             }
         }
 

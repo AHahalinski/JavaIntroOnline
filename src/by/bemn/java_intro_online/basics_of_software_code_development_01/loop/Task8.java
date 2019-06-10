@@ -1,4 +1,4 @@
-package by.bemn.java_intro_online.basics_of_software_code_development.loop;
+package by.bemn.java_intro_online.basics_of_software_code_development_01.loop;
 
 import java.util.Scanner;
 
@@ -21,7 +21,7 @@ public class Task8 {
             String stringWithChar = String.valueOf(stringOfNum1.charAt(i));
             if (stringOfNum2.contains(stringWithChar) && !temp.contains(stringWithChar)) {
                 System.out.println(stringOfNum1.charAt(i));
-                temp += stringWithChar;
+                temp = temp.concat(stringWithChar);
             }
         }
     }

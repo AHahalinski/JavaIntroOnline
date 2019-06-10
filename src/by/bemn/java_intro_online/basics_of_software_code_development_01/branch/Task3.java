@@ -1,4 +1,4 @@
-package by.bemn.java_intro_online.basics_of_software_code_development.branch;
+package by.bemn.java_intro_online.basics_of_software_code_development_01.branch;
 
 import java.util.Scanner;
 
