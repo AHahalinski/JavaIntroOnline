@@ -9,17 +9,13 @@ public class Task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        while (true) {
-            System.out.println("Enter double number (nnn.ddd): ");
-            String input = scanner.nextLine();
+        System.out.println("Enter double number (nnn.ddd): ");
+        double input = scanner.nextDouble();
 
-            if (input.matches("^[0-9]{3}[.|,][0-9]{3}$")) {
-                String[] strings = input.split("[.,]");
-                System.out.println(strings[1] + "." + strings[0]);
-                break;
-            } else {
-                System.out.println("Incorrect data, try again");
-            }
-        }
+        int nnn = (int) input;
+        int ddd = (int)((input - nnn) * 1000);
+        double revers = ddd + nnn/1000d;
+
+        System.out.println(revers);
     }
 }
