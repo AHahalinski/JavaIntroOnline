@@ -14,12 +14,10 @@ public class Task7 {
         double[] array = new double[2 * n];
         for (int i = 0; i < array.length; i++) {
             array[i] = (int) ((Math.random() * 2000 - 1000)) / 100d;
-
-//            System.out.print(array[i] + "; ");
-
+            System.out.print(array[i] + "; ");
         }
 
-//        System.out.println();
+        System.out.println();
 
         double max = Double.MIN_VALUE;
 

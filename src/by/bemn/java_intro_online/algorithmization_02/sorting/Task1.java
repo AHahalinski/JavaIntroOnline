@@ -1,4 +1,4 @@
-package by.bemn.java_intro_online.algorithmization_02.array_one_sort;
+package by.bemn.java_intro_online.algorithmization_02.sorting;
 
 import java.util.Scanner;
 
@@ -46,7 +46,7 @@ public class Task1 {
         }
     }
 
-    static int[] generateArray(int sizeArray) {
+    private static int[] generateArray(int sizeArray) {
         int[] array = new int[sizeArray];
         for (int i = 0; i < array.length; i++) {
             array[i] = (int) (Math.random() * 100);

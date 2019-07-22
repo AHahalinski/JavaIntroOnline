@@ -2,35 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73fe144d-6daf-4eff-a20c-f3743fd4f156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Airline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/ScheduleAirlines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/BankCustomers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/ListBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,6 +86,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaIntroOnline$TextEditor.ic" NAME="TextEditor Coverage Results" MODIFIED="1562592278497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>by.bemn.java_intro_online.by.bemn.java_intro_online.string_and_basics_of_text_processing_03.regex_pattern_matcher.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaIntroOnline$Task10.ic" NAME="Task10 Coverage Results" MODIFIED="1560769019176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>by.bemn.java_intro_online.algorithmization_02.array_one.*</FILTER>
     </SUITE>
@@ -48,76 +97,105 @@
     <session id="840206186">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitattributes" value="1" />
+          <entry key="gitattributes" value="2" />
           <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="83" />
+          <entry key="java" value="241" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="83" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="241" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
+          <entry key="dummy" value="2" />
           <entry key="gitignore" value="7" />
-          <entry key="java" value="15604" />
-          <entry key="txt" value="15" />
+          <entry key="java" value="51975" />
+          <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15604" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="JAVA" value="51975" />
+          <entry key="PLAIN_TEXT" value="26" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="16" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task2.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <state relative-caret-position="190">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task13.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Text.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="245">
+              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Sentence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Word.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,9 +206,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Name</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Type</replace>
+      <replace>type</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -138,57 +226,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/linear_algorithms/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/linear_algorithms/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/linear_algorithms/Task5.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/linear_algorithm/Task5.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/linear_algorithm/Task6.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/branch/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/branch/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/branch/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/branch/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/branch/Task5.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task6.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task7.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task8.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development/loop/Task5.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task8.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task5.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task6.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task7.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task8.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task9.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task5.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task6.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task7.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task8.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task10.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task9.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task10.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task11.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task14.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task15.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task16.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task12.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task13.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task2.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task4.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task5.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task6.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task7.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task8.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task9.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task10.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditer.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/Test.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditor.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/Solution.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/XmlParser.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/Test1.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/Student.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/Test2.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/Test2.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/Task1/task/task3/Student.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/Task1/task/Student.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/Student.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/task2/Test2.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task2/Test2.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task1/Test1.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task1/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task2/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task3/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task3/Student.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Schedule.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Train.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Counter.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Clock.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/Customer.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/BankCustomers.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/ListBooks.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/Book.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/TypePlane.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Day.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/ScheduleAirlines.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/simple_classes_objects/task10/Airline.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Airline.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Word.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Sentence.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Text.java" />
+        <option value="$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Main.java" />
       </list>
     </option>
   </component>
@@ -199,7 +287,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="133" />
     <option name="y" value="-8" />
     <option name="width" value="1795" />
     <option name="height" value="865" />
@@ -212,7 +300,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,46 +323,32 @@
               <item name="JavaIntroOnline" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_intro_online" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmization_02" type="462c0819:PsiDirectoryNode" />
+              <item name="programming_with_classes_04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroOnline" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_intro_online" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmization_02" type="462c0819:PsiDirectoryNode" />
-              <item name="array_multi" type="462c0819:PsiDirectoryNode" />
+              <item name="programming_with_classes_04" type="462c0819:PsiDirectoryNode" />
+              <item name="aggregation_composition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroOnline" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_intro_online" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmization_02" type="462c0819:PsiDirectoryNode" />
-              <item name="array_one" type="462c0819:PsiDirectoryNode" />
+              <item name="programming_with_classes_04" type="462c0819:PsiDirectoryNode" />
+              <item name="aggregation_composition" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroOnline" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_intro_online" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmization_02" type="462c0819:PsiDirectoryNode" />
-              <item name="array_one_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_intro_online" type="462c0819:PsiDirectoryNode" />
-              <item name="basics_of_software_code_development_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_intro_online" type="462c0819:PsiDirectoryNode" />
-              <item name="basics_of_software_code_development_01" type="462c0819:PsiDirectoryNode" />
-              <item name="loop" type="462c0819:PsiDirectoryNode" />
+              <item name="programming_with_classes_04" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_classes_objects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -307,18 +380,49 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaIntroOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560965624255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563443575693" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="SonarLintApp" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -332,13 +436,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.algorithmization_02.array_one_sort.Task1" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.programming_with_classes_04.aggregation_composition.task1.Main" />
       <module name="JavaIntroOnline" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bemn.java_intro_online.algorithmization_02.array_one_sort.*" />
+          <option name="PATTERN" value="by.bemn.java_intro_online.programming_with_classes_04.aggregation_composition.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +450,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.algorithmization_02.array_multi.Task12" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task7.Main" />
       <module name="JavaIntroOnline" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bemn.java_intro_online.algorithmization_02.array_multi.*" />
+          <option name="PATTERN" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.algorithmization_02.array_multi.Task13" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task6.Main" />
       <module name="JavaIntroOnline" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bemn.java_intro_online.algorithmization_02.array_multi.*" />
+          <option name="PATTERN" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,12 +476,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.algorithmization_02.array_multi.Task15" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task8.Main" />
       <module name="JavaIntroOnline" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bemn.java_intro_online.algorithmization_02.array_multi.*" />
+          <option name="PATTERN" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,12 +489,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.algorithmization_02.array_multi.Task16" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task9.Main" />
       <module name="JavaIntroOnline" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bemn.java_intro_online.algorithmization_02.array_multi.*" />
+          <option name="PATTERN" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task10.Main" />
+      <module name="JavaIntroOnline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.simple_classes_objects.task10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,19 +516,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task15" />
-      <item itemvalue="Application.Task16" />
-      <item itemvalue="Application.Task12" />
-      <item itemvalue="Application.Task13" />
-      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task12" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.Task16" />
-        <item itemvalue="Application.Task15" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -454,32 +565,38 @@
       <option name="project" value="LOCAL" />
       <updated>1560242092707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20.06.2019">
+      <created>1561021912248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561021912248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40195015" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49837488" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26435536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41928494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.33044422" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,7 +605,37 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32978126" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27537858" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32398754" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49740395" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33044422" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -500,20 +647,47 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="09.06.2019" />
     <MESSAGE value="10.06.2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.06.2019" />
+    <MESSAGE value="20.06.2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.06.2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task1.java</url>
-          <line>13</line>
+          <line>14</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -542,13 +716,135 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task1.java</url>
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task1.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task5.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task6.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task2.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task1.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task3.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task4.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task9.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/decomposition/Task17.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task1.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task1.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task2.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_array_of_char/Task3.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task7.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditor.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditor.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Main.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Main.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Main.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Counter.java</url>
+          <line>17</line>
+          <properties class="by.bemn.java_intro_online.programming_with_classes_04.simple_classes_objects.task5.Counter" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="sentences[1]" />
+        <watch expression="sentences[0]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -556,6 +852,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>stringBuilder.charAt(i);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>int h=i;</expression-string>
         <language-id>JAVA</language-id>
@@ -591,365 +892,369 @@ i</expression-string>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIntroOnline.iml">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="372">
+          <caret line="41" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1280">
-          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task5.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="39" column="5" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task4.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditer/model/Text.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        <state relative-caret-position="19">
+          <caret line="2090" column="18" selection-start-line="2090" selection-start-column="18" selection-end-line="2090" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task3.java">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="250">
+          <caret line="1472" column="20" lean-forward="true" selection-start-line="1472" selection-start-column="20" selection-end-line="1472" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task2.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/sorting/Task6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="197">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task1.java">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/regex/Pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="19">
+          <caret line="1080" column="26" selection-start-line="1080" selection-start-column="26" selection-end-line="1080" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task2.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/XmlParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="834">
+          <caret line="93" column="6" selection-start-line="93" selection-start-column="6" selection-end-line="93" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="40" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/branch/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/branch/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/branch/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="11" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/branch/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/branch/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task1.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task1/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task3.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task4.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task2/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="418">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task6.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task3/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/time/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="715" column="49" selection-start-line="715" selection-start-column="49" selection-end-line="715" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/string_object_string_stringbuilder/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task7.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/string_and_basics_of_text_processing_03/regex_pattern_matcher/TextEditor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/linear_algorithm/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="68" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="9" selection-start-line="10" selection-start-column="7" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="4" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="993">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one/Task10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="57" column="66" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="51" column="60" lean-forward="true" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/basics_of_software_code_development_01/loop/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="81" column="24" lean-forward="true" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+        <state relative-caret-position="331">
+          <caret line="202" column="16" lean-forward="true" selection-start-line="202" selection-start-column="16" selection-end-line="202" selection-end-column="16" />
           <folding>
-            <element signature="e#3443#4052#0" />
-            <element signature="e#5212#6848#0" />
+            <element signature="method#main#0;class#TextEditor#0" />
+            <element signature="method#printMenu#0;class#TextEditor#0" />
+            <element signature="method#enterCommand#0;class#TextEditor#0" />
+            <element signature="method#doCommand#0;class#TextEditor#0" />
+            <element signature="method#sortParagraph#0;class#TextEditor#0" />
+            <element signature="method#findSentence#0;class#TextEditor#0" />
+            <element signature="method#findWord#0;class#TextEditor#0" />
+            <element signature="method#findLetters#0;class#TextEditor#0" />
+            <element signature="method#sortWordInSentence#0;class#TextEditor#0" />
+            <element signature="method#sortWordWithTokensInSentence#0;class#TextEditor#0" />
+            <element signature="method#sortWordsTokens#0;class#TextEditor#0" />
+            <element signature="method#enterChar#0;class#TextEditor#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task11.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Train.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="475">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task13.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Schedule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="494">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_multi/Task12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/algorithmization_02/array_one_sort/Task2.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task6/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/awt/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2727">
+          <caret line="216" column="46" lean-forward="true" selection-start-line="216" selection-start-column="46" selection-end-line="216" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="959" column="13" selection-start-line="959" selection-start-column="13" selection-end-line="959" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1095">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task8/BankCustomers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1391">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/TypePlane.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/ListBooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Day.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="41" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/sd.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Airline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/ScheduleAirlines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/simple_classes_objects/task10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/StringJoiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="148" column="64" lean-forward="true" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bemn/java_intro_online/programming_with_classes_04/aggregation_composition/task1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1030,6 +1335,17 @@ i</expression-string>
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
